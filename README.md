@@ -13,16 +13,6 @@
 <a href="my github account"><img 
 <p/>
 
-<p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINCE-MD-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-MD?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXE-MD?label=Watching&style=social"></a>
-</p>
-
-
- <h1 align="center">😉OBEEZ21-BOT</h1>
- 
 ### <br>
 
 ### <br>
