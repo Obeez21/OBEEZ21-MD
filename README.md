@@ -3,7 +3,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="OBEEZ21" width="600" height="350" src="my logo bot">
+    <img alt="thumb.jpg" width="600" height="350" src="my logo bot">
   </a>
 </p>
 
