@@ -3,7 +3,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="OBEEZ21" width="600" height="350" src="thumb.jpg">
+    <img alt="OBEEZ21" width="600" height="350" src="donate.jpg">
   </a>
 </p>
 
