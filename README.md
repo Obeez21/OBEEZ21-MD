@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Obeez21/OBEEZ21-MD"><img title="Author" src="https://img.shields.io/badge/POPKID-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadgQKJ0gcfOoH97ln0b"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263786867677"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Obeez21/OBEEZ21-MD"><img title="Author" src="https://img.shields.io/badge/OBEEZ21-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadgQKJ0gcfOoH97ln0b"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263786867677"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
@@ -25,7 +25,7 @@
   </a>
    
 <p align="center">
-<a href="https://github.com/Obeez21/OBEEZ21-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github.com/Obeez21/OBEEZ21-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/Obeez21/OBEEZ21-MD"><img title="Stars" src="https://img.shields.io/github.com/Obeez21/OBEEZ21-MD?color=white&style=flat-square"></a>
 <a href="https://github.com/Obeez21/OBEEZ21-MD/network/members"><img title="Forks" src="https://img.shields.io/github.com/Obeez21/OBEEZ21-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Obeez21/OBEEZ21-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Obeez21/OBEEZ21-MD?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Obeez21/OBEEZ21-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
